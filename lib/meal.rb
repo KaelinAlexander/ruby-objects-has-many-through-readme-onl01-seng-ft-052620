@@ -15,6 +15,4 @@ attr_accessor :waiter, :customer, :total, :tip
     @@all
   end
   
-  
-
 end
