@@ -7,7 +7,7 @@ attr_accessor :waiter, :customer, :total, :tip
     @waiter = waiter
     @customer = customer
     @total = total
-    @top = tip
+    @tip = tip
     @@all << self
   end
 
